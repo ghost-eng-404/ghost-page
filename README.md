@@ -1,0 +1,2 @@
+# ghost-blog
+Ghost Blog
